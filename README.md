@@ -37,7 +37,7 @@ git clone https://github.com/Antoncianfoski/sistem-manajemen-gudang.git
    - Edit file `config.php` sesuai dengan setting database Anda
 
 4. Jalankan aplikasi
-   - Akses: `http://localhost/user_management/`
+   - Akses: `http://localhost:8080/sistem-manajemen-gudang/`
 
 ## Struktur Database
 
