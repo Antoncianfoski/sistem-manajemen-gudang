@@ -25,13 +25,13 @@ Sistem manajemen pengguna berbasis web dengan PHP dan MySQL untuk Admin Gudang.
 
 1. Clone repository ini
 ```bash
-git clone https://github.com/username/user-management-system.git
+git clone https://github.com/Antoncianfoski/sistem-manajemen-gudang.git
 ```
 
 2. Import database
    - Buka phpMyAdmin
-   - Buat database baru: `user_management_db`
-   - Import file: `database/user_management_system.sql`
+   - Buat database baru: `nama database`
+   - Import file: yang kalian buat contohnya saya `database.sql`
 
 3. Konfigurasi
    - Edit file `config.php` sesuai dengan setting database Anda
