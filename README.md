@@ -68,7 +68,11 @@ git clone https://github.com/Antoncianfoski/sistem-manajemen-gudang.git
 
 ## Screenshot
 
-[Tambahkan screenshot aplikasi Anda di sini]
+<img width="1918" height="1010" alt="image" src="https://github.com/user-attachments/assets/e592b4c5-dbcf-41a3-b360-a22548899740" />
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/de495785-3596-4db1-9259-e57e7a157650" />
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/2c955319-dd8b-49e3-b310-3faf088ac4ab" />
+<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/c8fe14f0-4eb3-4673-aed5-a78f5fa2f293" />
+
 
 ## Lisensi
 
@@ -76,4 +80,4 @@ MIT License
 
 ## Kontak
 
-MUHAMMAD ICHSAN FIRDAUS muhammadichsan2017@.gmail.com
+davinagung680@gmail.com
